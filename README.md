@@ -8,7 +8,7 @@ Arma build system for Sublime Text 2/3 adds a custom build system for building d
 
 ### Installation
 
-- **Automated:** [Open Last RPT](https://sublime.wbond.net/packages/ArmaBuild) using [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
+- **Automated:** [ArmaBuild](https://sublime.wbond.net/packages/ArmaBuild) using [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 - **Manual:** Clone this repository into your `Sublime Text x/Packages`
 
 ### Prerequisites
