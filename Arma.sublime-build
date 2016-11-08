@@ -1,4 +1,5 @@
 {
     "selector": "source.sqf",
-    "shell_cmd": "python \"${folder}\\tools\\build.py\""
+    "cmd": "python \"${folder}\\tools\\build.py\"",
+    "shell": true
 }
